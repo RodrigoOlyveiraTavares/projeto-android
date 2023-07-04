@@ -147,7 +147,7 @@ main h2{
 }
 div.video{
     background-color: var(--cor03);
-    margin: 0px 20px 0px -20px;
+    margin: 10px 20px 0px 10px;
     padding: 20px;
     padding-bottom: 53%;
     position:relative;
@@ -162,6 +162,7 @@ height: 90%;
 }
 
 aside{
+margin-top: 20px;
 background-color: var(--cor01);
 padding: 10px;
 border-radius: 7px;
