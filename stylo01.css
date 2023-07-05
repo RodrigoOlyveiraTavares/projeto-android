@@ -113,7 +113,7 @@ main a:hover{
     padding: 2px 6px;
     color:var(--cor04);
 }
-a::after{
+main a::after{
     content: "\1F517";
 }
 
