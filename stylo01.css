@@ -129,9 +129,9 @@ main a::after{
 
 h1{
     color:var(--cor05);
-background-color: var(--cor03);
-text-align:center;
-text-shadow: 2px 2px 2px var(--cor04);
+    background-color: var(--cor02);
+    text-align:center;
+    text-shadow: 2px 2px 2px var(--cor04);
 }
 
 h2{
