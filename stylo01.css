@@ -132,6 +132,7 @@ h1{
     background-color: var(--cor02);
     text-align:center;
     text-shadow: 2px 2px 2px var(--cor04);
+    border: 1px var(--cor05);
 }
 
 h2{
