@@ -33,8 +33,8 @@ body{
 
 }
 header{
-    position: sticky;
-    top: 0px;
+    /*position: sticky;
+    top: 0px;*/
     padding-top: 30px;
     background-color: var(--cor05);
     min-height: 150px;
@@ -64,8 +64,8 @@ header > p{
 }
 
 nav{
-    position: sticky;
-    top: 140px;
+    /*position: sticky;
+    top: 140px;*/
     padding: 10px;
     background-color: var(--cor05);
     box-shadow: opx 7px 9px rgba(0, 0, 0, 0.548);
