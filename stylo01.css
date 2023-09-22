@@ -69,6 +69,7 @@ nav{
     padding: 10px;
     background-color: var(--cor05);
     box-shadow: opx 7px 9px rgba(0, 0, 0, 0.548);
+    color: ;
 }
 nav > a{
     padding: 10px;
